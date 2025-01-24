@@ -11,5 +11,5 @@ author_profile: true
 1. Побудова спільного сховища високої доступності (HA) кластера з двома вузлами на основі DRBD з мережею на основі RDMA . [інструкція](https://github.com/vidomenko-it/vidomenko-it.github.io/blob/main/_posts/2025-01-11-post-1.md) 
 2. Про один з способів реалізації RAID1 спільного сховища високої доступності (HA) для кластера Proxmox з двох вузлів з їх дисків . [інструкція](https://github.com/vidomenko-it/vidomenko-it.github.io/blob/main/_posts/2025-01-12-post-2.md)
 3. Proxmox, VM Linux completely into RAM Про один з способів реалізації бездискової віртуальної машини на основі Linux для кластерів, яка працює тільки в RAM . [інструкція](https://github.com/vidomenko-it/vidomenko-it.github.io/blob/main/_posts/2025-01-24-post-3.md)
-3. 4. Перенесення системи на RAM диск на льоту . [інструкція](https://github.com/vidomenko-it/vidomenko-it.github.io/blob/main/_posts/2025-01-24-post-4.md)
-3. 5. Підключення вузлів кластера Proxmox до WiFi мережі . [інструкція](https://github.com/vidomenko-it/vidomenko-it.github.io/blob/main/_posts/2025-01-24-post-5.md)
+4. Перенесення системи на RAM диск на льоту . [інструкція](https://github.com/vidomenko-it/vidomenko-it.github.io/blob/main/_posts/2025-01-24-post-4.md)
+5. Підключення вузлів кластера Proxmox до WiFi мережі . [інструкція](https://github.com/vidomenko-it/vidomenko-it.github.io/blob/main/_posts/2025-01-24-post-5.md)
