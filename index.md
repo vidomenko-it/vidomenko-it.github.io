@@ -11,5 +11,5 @@ author_profile: true
   <img src="assets/images/youtube.jpg" width="40" height="25" width="60" target="_blank" alt="Дивитись"></a>  
 2. Про один з способів реалізації RAID1 спільного сховища високої доступності (HA) для кластера Proxmox з двох вузлів з їх дисків. [інструкція](https://vidomenko-it.github.io/blog/post-2/). Дивитись <a href="https://youtube.com">
   <img src="assets/images/youtube.jpg" width="40" height="25" width="60" target="_blank" alt="Дивитись"></a> 
-3. Про один з способів реалізації бездискової віртуальної машини на основі Linux для кластерів, яка працює тільки в RAM. [інструкція](https://fondurat-it.github.io/blog/post-3/). Дивитись <a href="https://youtube.com">
+3. Про один з способів реалізації бездискової віртуальної машини на основі Linux для кластерів, яка працює тільки в RAM. [інструкція](https://vidomenko-it.github.io/blog/2025-01-24-post-3/). Дивитись <a href="https://youtube.com">
   <img src="assets/images/youtube.jpg" width="40" height="25" width="60" target="_blank" alt="Дивитись"></a>
