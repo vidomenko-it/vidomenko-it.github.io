@@ -31,6 +31,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+enable_copy_code_button: true
 
 include:
   - _pages
@@ -101,6 +102,7 @@ defaults:
       comments: true
       share: true
       related: true
+      enable_copy_code_button: true
   # _pages
   - scope:
       path: "_pages"
@@ -115,3 +117,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  enable_copy_code_button: true
