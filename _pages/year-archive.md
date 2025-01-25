@@ -1,5 +1,5 @@
 ---
-title: "Статті моЇ"
+title: "Статті інструкціЇ"
 permalink: /posts/
 layout: posts
 author_profile: true
