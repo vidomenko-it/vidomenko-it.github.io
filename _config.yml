@@ -49,6 +49,12 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "GTM-K97D8HL8"
+    anonymize_ip: false # default
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -57,12 +63,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  
-  analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "GTM-K97D8HL8"
-    anonymize_ip: false # default
 
 author:
   name   : "Oleksandr Vidomenko"
