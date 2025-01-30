@@ -61,7 +61,7 @@ plugins:
   analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-BBTQLMPKDH"
+    tracking_id: "GTM-K97D8HL8"
     anonymize_ip: false # default
 
 author:
