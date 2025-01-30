@@ -57,6 +57,12 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
+  analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-BBTQLMPKDH"
+    anonymize_ip: false # default
 
 author:
   name   : "Oleksandr Vidomenko"
