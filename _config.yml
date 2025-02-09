@@ -86,7 +86,7 @@ author:
    #  url: "https://instagram.com/"
     - label: "Email"
       icon: "fa-solid fa-envelope"
-      <a href="mailto:oleksandr.vidomenko.it@gmail.com"</a>
+      url: "https://mail.google.com/mail/u/9/#inbox?compose=new" #<a href="mailto:oleksandr.vidomenko.it@gmail.com"</a>
              
 
 footer:
