@@ -6,7 +6,7 @@
 layout: single
 author_profile: true
 ---
-## Будуємо надійне безпечне інформаційне середовище разом!
+## Construisons ensemble un environnement informationnel fiable et sécurisé !
 ---
 1. Création d’un stockage partagé à haute disponibilité (HA) d’un cluster basé sur DRBD à deux nœuds avec un réseau basé sur RDMA . [інструкція](https://vidomenko-it.github.io/blog/post-1/) 
 2. À propos d'une façon d'implémenter un stockage haute disponibilité (HA) partagé RAID1 pour un cluster Proxmox de deux nœuds à partir de leurs disques Про один з способів реалізації RAID1 спільного сховища високої доступності (HA) для кластера Proxmox з двох вузлів з їх дисків . [інструкція](https://vidomenko-it.github.io/blog/post-2/)
