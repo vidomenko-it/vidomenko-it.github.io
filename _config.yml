@@ -67,7 +67,7 @@ plugins:
 author:
   name   : "Oleksandr Vidomenko"
   avatar : "/assets/images/Sasha1.jpg"
-  bio    : "Понад 20 років я працюю в IT сфері."
+  bio    : "Je travaille dans le domaine informatique depuis plus de 20 ans."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -84,9 +84,9 @@ author:
    #- label: "Instagram"
    #  icon: "fab fa-fw fa-instagram"
    #  url: "https://instagram.com/"
-    - label: "email"
+    - label: "oleksandr.vidomenko.it@gmail.com"
       icon: "fa-solid fa-envelope"
-      url:  "oleksandr.vidomenko.it@gmail.com"
+   #  url:  "oleksandr.vidomenko.it@gmail.com"
              
 
 footer:
