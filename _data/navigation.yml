@@ -1,9 +1,9 @@
 main:
-  - title: "Статті"
+  - title: "Articles"
     url: /posts/
-  - title: "КатегоріЇ"
+  - title: "Catégories"
     url: /categories/
-  - title: "Теги"
+  - title: "Mots clés"
     url: /tags/
-  - title: "Про проект"
+  - title: "À propos du projet"
     url: /about/
