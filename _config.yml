@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 logo: "/assets/images/vc1-1.png"
-locale: "uk-UA"
-title: РОЗРОБНИК
+locale: "fr-FR"
+title: PROMOTEUR
 email: oleksandr.vidomenko.it@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Інформаційну безпеку свого житла чи підприємства, забезпечити зможе кожен, самостійно та за невеликі гроші. За допомогою моєї розробки, яка є відмовостійким кластером в ультрадешевій реалізації. Це система на відкритому ПЗ, двовузловий кластер на основі PROXMOX, програмне забеспечення якого вионує певні задачі.
+  Chacun peut assurer la sécurité des informations de son domicile ou de son entreprise, de manière autonome et pour peu d’argent. Avec l'aide de mon développement, il s'agit d'un cluster tolérant aux pannes dans une implémentation ultra-bon marché. Il s'agit d'un système open source, un cluster à deux nœuds basé sur PROXMOX, dont le logiciel exécute certaines tâches.
 twitter_username: username
 github_username: vidomenko-it
 minimal_mistakes_skin: air
@@ -84,6 +84,10 @@ author:
    #- label: "Instagram"
    #  icon: "fab fa-fw fa-instagram"
    #  url: "https://instagram.com/"
+    - label: "email"
+      icon: "fa-solid fa-envelope"
+      url:  "oleksandr.vidomenko.it@gmail.com"
+             
 
 footer:
   links:
