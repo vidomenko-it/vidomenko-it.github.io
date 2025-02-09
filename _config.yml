@@ -84,9 +84,9 @@ author:
    #- label: "Instagram"
    #  icon: "fab fa-fw fa-instagram"
    #  url: "https://instagram.com/"
-    - label: ""
+    - label: "Email"
       icon: "fa-solid fa-envelope"
-      mailto: "oleksandr.vidomenko.it@gmail.com"
+      url: "mailto:/oleksandr.vidomenko.it@gmail.com/"
              
 
 footer:
