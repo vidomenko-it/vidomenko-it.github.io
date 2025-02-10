@@ -68,6 +68,7 @@ author:
   name   : "Oleksandr Vidomenko"
   avatar : "/assets/images/Sasha1.jpg"
   bio    : "Je travaille dans le domaine informatique depuis plus de 20 ans."
+  location: "Thionville, France"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
