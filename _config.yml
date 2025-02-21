@@ -94,12 +94,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vidomenko-it/"
-   #- label: "Instagram"
-   #  icon: "fab fa-fw fa-instagram"
-   #  url: "https://instagram.com/"
     - label: "Email"
       icon: "fa-solid fa-envelope"
       url: "mailto:oleksandr.vidomenko.it@gmail.com"
+   #- label: "Instagram"
+   #  icon: "fab fa-fw fa-instagram"
+   #  url: "https://instagram.com/"
              
 
 footer:
@@ -113,7 +113,7 @@ footer:
    #- label: "Instagram"
    #  icon: "fab fa-fw fa-instagram"
    #  url: "https://instagram.com/"
-   - label: "Email"
+    - label: "Email"
       icon: "fa-solid fa-envelope"
       url: "mailto:oleksandr.vidomenko.it@gmail.com"
 
