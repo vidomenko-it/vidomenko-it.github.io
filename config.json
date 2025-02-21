@@ -1,5 +1,4 @@
 {
- # "gitlabToken": "YOUR_GITLAB_TOKEN",
   "githubToken": "1c9d26e44718642b7f348dd507f01a7ef240bee0",
   "rsaPrivateKey": "-----BEGIN RSA PRIVATE KEY-----SHA256:rfTYsQvUJlerKreg6TJj3yiJdpT49+LX++c5uTxdGIE=-----END RSA PRIVATE KEY-----",
   "port": 80
