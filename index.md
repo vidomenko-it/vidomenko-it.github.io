@@ -13,3 +13,4 @@ author_profile: true
 3. Proxmox, VM Linux completely into RAM À propos d'une façon d'implémenter une machine virtuelle sans disque basée sur Linux pour les clusters qui s'exécute uniquement en RAM . [instruction](https://vidomenko-it.github.io/blog/post-3/)
 4. Перенесення системи на RAM диск на льоту . [instruction](https://vidomenko-it.github.io/blog/post-4/)
 5. Connexion des nœuds du cluster Proxmox au réseau WiFi . [instruction](https://vidomenko-it.github.io/blog/post-5/)
+6. Comment remplacer rapidement le disque système d'un ordinateur portable ou de bureau par un plus grand à l'aide de Proxmox ?  [instruction](https://vidomenko-it.github.io/blog/post-6/)
