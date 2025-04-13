@@ -26,14 +26,14 @@ search: true
 # _config.yml (defaults)
 repository: "vidomenko-it/vidomenko-it.github.io"  # e.g. "mmistakes/minimal-mistakes"
 comments:
-  provider: "staticman_v2"
-  staticman:
-    branch: "main"
-    endpoint: "https://{vidomenko comment v3 API}/v3/entry/github/"
+#  provider: "staticman_v2"
+#  staticman:
+#    branch: "main"
+#    endpoint: "https://{vidomenko comment v3 API}/v3/entry/github/"
 reCaptcha:
-  enabled: true
-  siteKey: "6LdSs9gqAAAAAI9DXmw6Gtx28mEFdA1YR9EdGyx7"
-  secret: "6LdSs9gqAAAAABKMK1EL3YkkRERCCLE-vaTnOnjQ"
+#  enabled: true
+#  siteKey: "6LdSs9gqAAAAAI9DXmw6Gtx28mEFdA1YR9EdGyx7"
+#  secret: "6LdSs9gqAAAAABKMK1EL3YkkRERCCLE-vaTnOnjQ"
 
 
 # Build settings
