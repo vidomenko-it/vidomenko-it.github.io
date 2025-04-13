@@ -3,8 +3,8 @@ permalink: /about/
 title: "Infrastructure IT"
 ---
 
-![](assets/img/CyberSecurity.png)
 
+<img src="assets/images/CyberSecurity.png" alt="" width="300" height="300">
 
 ## Infrastructure IT : Solution Clé en Main pour Résilience et Sécurité
 Enjeux
