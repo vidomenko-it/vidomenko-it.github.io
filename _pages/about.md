@@ -3,7 +3,7 @@ permalink: /about/
 title: "Infrastructure IT"
 ---
 
-![](CyberSecurity.png)
+![](assets/img/CyberSecurity.png)
 
 
 ## Infrastructure IT : Solution Clé en Main pour Résilience et Sécurité
@@ -11,22 +11,26 @@ Enjeux
 
 Chaque minute d’indisponibilité coûte argent et confiance clients. Les fuites de données nuisent à votre réputation. Les cyberattaques menacent votre activité.
 
-Solution ? Une architecture intégrant cluster HA, serveur de secours et machines virtuelles isolées, offrant :
-✅ 99,99 % de disponibilité
-✅ Protection anti-DDoS et fuites
-✅ Basculement automatique
+Solution ? Une architecture intégrant cluster HA, serveur de secours et machines virtuelles isolées, offrant :  
+
+✅ 99,99 % de disponibilité   
+✅ Protection anti-DDoS et fuites   
+✅ Basculement automatique 
 Fonctionnement
-1. Haute Disponibilité (HA)
+
+### 1. Haute Disponibilité (HA)
 
 Technos : Proxmox VE, Corosync, Pacemaker
 Avantage : Basculer vers un serveur secondaire en cas d’incident.
 Mots-clés : "configurer un cluster HA Proxmox", "infrastructure tolérante aux pannes", "Pacemaker pour entreprises"
-2. Reprise d’Activité
+
+### 2. Reprise d’Activité
 
 Technos : DRBD, rsync, ZFS
 Avantage : Synchronisation des données en temps réel.
 Mots-clés : "solutions de sauvegarde", "réplication DRBD", "ZFS pour continuité d’activité"
-3. Cybersécurité
+
+### 3. Cybersécurité
 
 Technos : VLAN, OpenVPN, LUKS
 Avantage : Isolation des VM et chiffrement.
@@ -41,30 +45,31 @@ Pour Qui ?
 
     Grands groupes besoin de redondance
 
-Mots-clés : "solutions IT pour eCommerce", "infrastructure FinTech", "clusters HA pour startups"
-Spécifications Techniques (GitHub)
-markdown
-Copy
+"solutions IT pour eCommerce", "infrastructure FinTech", "clusters HA pour startups"  
 
-# Cluster HA avec Sauvegarde & Isolation  
+Spécifications Techniques (GitHub)
+```
+markdown
+
+## Cluster HA avec Sauvegarde & Isolation  
 **Stack :** Proxmox VE, KVM, Pacemaker, DRBD, HAProxy  
 **Fonctionnalités :**  
 - Basculement automatique  
 - Stockage chiffré (LUKS)  
 - Segmentation VLAN  
-- Templates Terraform/Ansible inclus  
+- Templates Terraform/Ansible inclus
+```
 
-Hashtags GitHub :
 #HauteDisponibilité #RepriseActivité #CyberSecurité #Proxmox #DevOps
-Déploiement
+Déploiement  
 
-    Équipes IT :
+    Équipes IT :  
 
-        Configurations prêtes sur GitHub.
+        Configurations prêtes sur GitHub.  
 
-        Guide d’installation détaillé.
+        Guide d’installation détaillé.  
 
-    Décideurs :
+    Décideurs :  
 
         Solution clé en main à partir de XXX€/mois (audit + déploiement + support).
 
