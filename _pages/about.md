@@ -1,9 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+title: "Infrastructure IT"
 ---
 
-
+![](CyberSecurity.png)
 
 
 ## Infrastructure IT : Solution Clé en Main pour Résilience et Sécurité
