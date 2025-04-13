@@ -4,11 +4,13 @@ title: "Infrastructure IT"
 ---
 
 
-<img src="assets/images/cybersecurity.png" alt="" width="300" height="300" align="middle">
+
 
 
 ## Infrastructure IT : Solution Clé en Main pour Résilience et Sécurité
 Enjeux
+
+<iframe src="https://gamma.app/embed/2eki6hjm8biir4h" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Infrastructure IT : Solution Clé en Main pour Résilience et Sécurité"></iframe>
 
 Chaque minute d’indisponibilité coûte argent et confiance clients. Les fuites de données nuisent à votre réputation. Les cyberattaques menacent votre activité.
 
