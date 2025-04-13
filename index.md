@@ -8,9 +8,9 @@ author_profile: true
 ---
 ## Construisons ensemble un environnement informationnel fiable et sécurisé !
 ---
-=====
+--------
 ## [Brève présentation du projet](assets/images/it-Infrastructure-for-business.pdf)
-=====
+--------
 
 1. Création d’un stockage partagé à haute disponibilité (HA) d’un cluster basé sur DRBD à deux nœuds avec un réseau basé sur RDMA . [instruction](https://vidomenko-it.github.io/blog/post-1/) 
 2. À propos d'une façon d'implémenter un stockage haute disponibilité (HA) partagé RAID1 pour un cluster Proxmox de deux nœuds à partir de leurs disques . [instruction](https://vidomenko-it.github.io/blog/post-2/)
